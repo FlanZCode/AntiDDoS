@@ -1,0 +1,7 @@
+name: AntiDDoS
+main: be\FlanZ\AntiDDoS\Main
+version: 1.0.0
+api: 5.15.0
+author: FlanZ
+description: This plugin try to prevent your server from DDoS attack.
+website: https://github.com/FlanZCode/AntiDDoS
